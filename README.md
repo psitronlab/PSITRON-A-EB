@@ -4,5 +4,5 @@ With PSITRON®-A-EB you can easily learn to play with analog electronics and und
 First develop basic circuits, then more complex applications and finally create your own library with electronic modules. 
 Use it to realize your own ideas and new products. Become an inventor.
 
-PSITRON®-A was developed by experienced electrical engineers and teaches the most important basics of analog 
+PSITRON®-A-EB was developed by experienced electrical engineers and teaches the most important basics of analog 
 electronics in a playful way using tested experiments.
